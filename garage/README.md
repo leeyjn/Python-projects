@@ -1,1 +1,1 @@
-This is the garage; few stuff is lying around here.
+This is a garage; few stuff is lying around here.
